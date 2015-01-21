@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mi primer App</string>
+    <string name="hola_mundo">Hola mundoooooooooo!</string>
+    <string name="action_settings">Settings</string>
+    <string name="suscribite">Suscribite</string>
+
+</resources>
